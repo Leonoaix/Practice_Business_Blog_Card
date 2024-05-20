@@ -1,0 +1,8 @@
+title: My Awesome Site
+description: >- 
+  This is the description of my awesome site.
+baseurl: "/Practice_Business_Blog_Card" # 如果站点在子路径下，例如 'your-username.github.io/repo', baseurl应为'/repo'
+url: "https://Leonoaix.github.io/Practice_Business_Blog_Card" # 站点的URL
+
+# 主题可以选择你喜欢的Jekyll主题
+theme: jekyll-theme-minimal
