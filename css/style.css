@@ -23,7 +23,6 @@ body{
 
 .card{
     width: var(--CARD_WIDTH);
-    box-shadow: 10px 10px 5px #F2F5F9;
     border-radius: var(--BORDER_RADIUS);
     margin: auto auto;
 }
